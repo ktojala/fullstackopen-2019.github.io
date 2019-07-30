@@ -325,7 +325,7 @@ document.getElementById('notes').appendChild(ul)
 
 ### document-olio ja sivun manipulointi konsolista
 
-HTML-dokumenttia esittävän DOM-puun ylimpänä solmuna on olio nimeltään <em>document</em>. Olioon pääsee käsiksi Console-välilehdeltä:
+HTML-dokumenttia esittävän DOM-puun ylimpänä solmuna on olio nimeltään <em>document</em>. Oliota pääsee muokkaamaan kirjoittamalla document Console-lehden kehotteen perään: 
 
 ![](../../images/0/15e.png)
 
